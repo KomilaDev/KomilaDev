@@ -1,6 +1,6 @@
 <h1 align="center">Front-end Developer</h1>
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am Komila Khamdullayeva
 
 I am a software developer specializing in building high-end front-end services, web applications and systems using JavaScript and its libraries. I create websites. </br>
 
