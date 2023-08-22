@@ -12,7 +12,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![Youtube Badge](https://img.shields.io/badge/@KomilaDev-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@KomilaDev)](https://www.youtube.com/@KomilaDev)
 
   
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👩🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on JavaScript & TypeScript, React.js, Next.js
 
@@ -39,6 +39,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=komiladev&show_icons=true&theme=gotham" alt="komila" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=komiladev&show_icons=true&theme=radical" alt="komila" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KomilaDev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="komila" /></a> </p>
