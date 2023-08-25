@@ -6,9 +6,8 @@ I am a software developer specializing in building high-end front-end services, 
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-komilakhamdullayeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komila-khamdullayeva/)](https://www.linkedin.com/in/komila-khamdullayeva/) 
-
 [![Telegram Badge](https://img.shields.io/badge/@komila_khamdullayeva-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/komila_dev0112)](https://t.me/komila_dev0112) 
+[![Linkedin Badge](https://img.shields.io/badge/-komilakhamdullayeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komila-khamdullayeva/)](https://www.linkedin.com/in/komila-khamdullayeva/) 
 [![Youtube Badge](https://img.shields.io/badge/@KomilaDev-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@KomilaDev)](https://www.youtube.com/@KomilaDev)
 
   
