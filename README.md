@@ -1,10 +1,19 @@
-<h1 align="center">Front-end Developer</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Komilaxon👩🏻‍💻&center=true&size=30">
+  </a>
+  <br>
+</br>
+  <h1 align="center">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffd700&background=6DFF5700&width=435&lines=Front+-End+Developer+++++++%F0%9F%92%BB"  alt="Typing SVG" /></a>
 
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am Komila Khamdullayeva
+  </h1>
 
-I am a software developer specializing in building high-end front-end services, web applications and systems using JavaScript and its libraries. I create websites. </br>
+<br>
+<a href="https://git.io/typing-svg">
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+ I am Komila Khamdullayeva .
+## I am a software developer specializing in building high-end front-end services, web applications and systems using JavaScript and its libraries. I create websites. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Telegram Badge](https://img.shields.io/badge/@komila_khamdullayeva-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/komila_dev0112)](https://t.me/komila_dev0112) 
 [![Linkedin Badge](https://img.shields.io/badge/-komilakhamdullayeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komila-khamdullayeva/)](https://www.linkedin.com/in/komila-khamdullayeva/) 
@@ -22,30 +31,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 
 ## ⚡ My skills
-
-![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Image](https://img.shields.io/badge/Sass/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Image](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
-![Image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-![Image](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,tailwind,figma,react,next,git,github,vercel,vscode)](https://skillicons.dev)<br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=komiladev&show_icons=true&theme=radical" alt="komila" />
 
