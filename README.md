@@ -1,24 +1,21 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Komilaxon👩🏻‍💻&center=true&size=30">
-  </a>
-  <br>
-</br>
+</a>
+
   <h1 align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffd700&background=6DFF5700&width=435&lines=Front+-End+Developer+++++++%F0%9F%92%BB"  alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffd700&background=6DFF5700&width=435&lines=Front+-End+Developer+++++++%F0%9F%92%BB"  alt="Typing SVG" /></a>
 
-  </h1>
+</h1>
 
-<br>
 <a href="https://git.io/typing-svg">
 
- I am Komila Khamdullayeva .
-## I am a software developer specializing in building high-end front-end services, web applications and systems using JavaScript and its libraries. I create websites. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+## I am Komila Khamdullayeva .
+I am a software developer specializing in building high-end front-end services, web applications and systems using JavaScript and its libraries. I create websites. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Telegram Badge](https://img.shields.io/badge/@komila_khamdullayeva-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/komila_dev0112)](https://t.me/komila_dev0112) 
 [![Linkedin Badge](https://img.shields.io/badge/-komilakhamdullayeva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/komila-khamdullayeva/)](https://www.linkedin.com/in/komila-khamdullayeva/) 
 [![Youtube Badge](https://img.shields.io/badge/@KomilaDev-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@KomilaDev)](https://www.youtube.com/@KomilaDev)
-
   
 <h2 align="left">👩🏻‍💻 About Me:</h2>
 
@@ -28,7 +25,6 @@
 
 
 ## 💻 Code Editor ![Image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 
 ## ⚡ My skills
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,tailwind,figma,react,next,git,github,vercel,vscode)](https://skillicons.dev)<br/>
