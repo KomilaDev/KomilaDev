@@ -29,7 +29,7 @@ I am a software developer specializing in building high-end front-end services, 
 ## ⚡ My skills
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,tailwind,figma,react,next,git,github,vercel,vscode)](https://skillicons.dev)<br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KomilaDev&show_icons=true&theme=radical" alt="komila" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=komilaDev&show_icons=true&theme=radical" alt="komila" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komilaDev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="KomilaDev" /></a> </p>
 
