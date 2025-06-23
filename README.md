@@ -19,9 +19,9 @@ I am a software developer specializing in building high-end front-end services, 
   
 <h2 align="left">👩🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently learning on front-end
-- :star2: Front-end & Back-end learning
-- 👩🏻‍💻 I'm currently working on JavaScript & TypeScript, React.js, Next.js
+- :computer: I'm currently learning on programming
+- :star2: Front-end & Back-end 
+- 👩🏻‍💻 I'm currently working on JavaScript & TypeScript, React.js, Next.js, Python, Telegram bot, Rest api, Django, PostgreSql
 
 
 ## 💻 Code Editor ![Image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
